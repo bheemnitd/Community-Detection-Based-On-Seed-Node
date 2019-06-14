@@ -5,7 +5,7 @@
 
 ### Dataset
 <table>
-  <tr><td><h5>Network name</h5></td><td><h5>#node</h5></td><td><h5>#edge</h5></td><td><h5>Refrences</h5></td></tr>
+  <tr><td><h5><center>Network name</center></h5></td><td><h5>#node</h5></td><td><h5>#edge</h5></td><td><h5>Refrences</h5></td></center></tr>
   <tr><td>Karated Club</td><td>34</td><td>78</td><td>[1]</td></tr>
   <tr><td>Dolphins Network</td><td>62</td><td>159</td><td>[2]</td></tr>
   <tr><td>Political Books</td><td>105</td><td>441</td><td>[3]</td></tr>
