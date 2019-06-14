@@ -35,26 +35,26 @@
 ### Comparision between some popular existed community detection algorithm and our algorithm
 <table>
   <tr align = 'center'><td><h5>Name of Network</h5></td><td><h5>Algorithms</h5></td><td><h5>Communities</h5></td><td><h5>Modularity</h5></td></tr>
-  <tr align = 'center'><td>Karate Club</td><td>Newman[1]</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Lovain[5]</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Walktrap[6]</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Licod[7]</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Yasca[8]</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td><b>Our Algorithm</b></td><td><b>5</b></td><td><b>0.40</b></td></tr>
+  <tr align = 'center'><td>Karate Club</td><td>Newman[1] </td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Lovain[5]           </td><td>4</td><td>0.41</td></tr>
+  <tr align = 'center'><td> </td><td>Walktrap[6]         </td><td>5</td><td>0.35</td></tr>
+  <tr align = 'center'><td> </td><td>Licod[7]            </td><td>3</td><td>0.24</td></tr>
+  <tr align = 'center'><td> </td><td>Yasca[8]            </td><td>2</td><td>0.34</td></tr>
+  <tr align = 'center'><td> </td><td><b>Our Algorithm</b></td><td><b>2</b></td><td><b>0.37</b></td></tr>
   
-  <tr align = 'center'><td>Dolphins</td><td>Newman</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Lovain</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Walktrap</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Licod</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Yasca</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td><b>Our Algorithm</b></td><td><b>5</b></td><td><b>0.40</b></td></tr>
+  <tr align = 'center'><td>Dolphins</td><td>Newman</td> <td>5</td><td>0.51</td></tr>
+  <tr align = 'center'><td> </td><td>Lovain</td>        <td>4</td><td>0.52</td></tr>
+  <tr align = 'center'><td> </td><td>Walktrap</td>      <td>4</td><td>0.50</td></tr>
+  <tr align = 'center'><td> </td><td>Licod</td>         <td>6</td><td>0.42</td></tr>
+  <tr align = 'center'><td> </td><td>Yasca</td>         <td>3</td><td>0.24</td></tr>
+  <tr align = 'center'><td> </td><td><b>Our Algorithm</b></td><td><b>4</b></td><td><b>0.52</b></td></tr>
   
-  <tr align = 'center'><td>Political Books</td><td>Newman</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Lovain</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Walktrap</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Licod</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td>Yasca</td><td>5</td><td>0.40</td></tr>
-  <tr align = 'center'><td> </td><td><b>Our Algorithm</b></td><td><b>5</b></td><td><b>0.40</b></td></tr>
+  <tr align = 'center'><td>Political Books</td><td>Newman</td><td>5</td><td>0.52</td></tr>
+  <tr align = 'center'><td> </td><td>Lovain</td>        <td>5</td><td>0.51</td></tr>
+  <tr align = 'center'><td> </td><td>Walktrap</td>      <td>4</td><td>0.51</td></tr>
+  <tr align = 'center'><td> </td><td>Licod</td>         <td>2</td><td>0.48</td></tr>
+  <tr align = 'center'><td> </td><td>Yasca</td>         <td>3</td><td>0.35</td></tr>
+  <tr align = 'center'><td> </td><td><b>Our Algorithm</b></td><td><b>5</b></td><td><b>0.50</b></td></tr>
 
 </table>
 
