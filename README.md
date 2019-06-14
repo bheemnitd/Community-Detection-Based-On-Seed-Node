@@ -59,22 +59,22 @@
 </table>
 
 ### Visual Comparision based on Modularity.
-<img align="right" width="500" height="500" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/download%202.png">
-### Refrences.
+<img align="right" width="500" height="500" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/download%202.png"><br><br>
+### Refrences.<br><br>
 [1] Girvan, M., Newman, M.E.J.: Community structure in social and biological net-
-works. PNAS 99(12), 7821–7826 (2002)<br>
+works. PNAS 99(12), 7821–7826 (2002)<br><br>
 [2] Zachary, W.W.: An information flow model for conflict and fission in small groups.Journal
-of Anthropological Resea33, 452–473 (1977)<br>
+of Anthropological Resea33, 452–473 (1977)<br><br>
 [3] Lusseau, D., Schneider, K., Boisseau, O.J., Haase, P., Slooten, E., Dawson, S.M.:The
 bottlenose dolphin community of doubtful sound features a large proportion of long-
-lasting associations. Behavioral Ecology and Sociobiology 54, 396–405 (2003)<br>
-[4] Krebs, V.: Political books network, http://www.orgnet.com/<br>
+lasting associations. Behavioral Ecology and Sociobiology 54, 396–405 (2003)<br><br>
+[4] Krebs, V.: Political books network, http://www.orgnet.com/<br><br>
 [5] Blondel, V.D., Guillaume, J.I., Lefebvre, E.: Fast unfolding of communities in large
-networks, pp. 1–12 (2008)<br>
+networks, pp. 1–12 (2008)<br><br>
 [6] Pons, P., Latapy, M.: Computing communities in large networks using random
-walks. J. Graph Algorithms Appl. 10(2), 191–218 (2006)<br>
+walks. J. Graph Algorithms Appl. 10(2), 191–218 (2006)<br><br>
 [7] Kanawati, R.: Licod: Leaders identification for community detection in complex networks.
-In: SocialCom/PASSAT, pp. 577–582 (2011)<br>
+In: SocialCom/PASSAT, pp. 577–582 (2011)<br><br>
 [8] Kanawati, R.: Yasca: A collective intelligence approach for community detection
-in complex networks. CoRR abs/1401.4472 (2014)<br>
+in complex networks. CoRR abs/1401.4472 (2014)
 
