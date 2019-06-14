@@ -31,5 +31,31 @@
 
 ![alt text](https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/Selection_009.jpg) 
 
-![alt text](https://github.com/bheemnitd/Community-Detection-based-on-seed-node/blob/master/download.png) 
+
+### Comparision between some popular existed community detection algorithm and our algorithm
+<table>
+  <tr align = 'center'><td><h5>Name of Network</h5></td><td><h5>Algorithms</h5></td><td><h5>Communities</h5></td><td><h5>Modularity</h5></td></tr>
+  <tr align = 'center'><td>Karate Club</td><td>Newman[1]</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Lovain[5]</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Walktrap[6]</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Licod[7]</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Yasca[8]</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td><b>Our Algorithm</b></td><td><b>5</b></td><td><b>0.40</b></td></tr>
+  
+  <tr align = 'center'><td>Dolphins</td><td>Newman</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Lovain</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Walktrap</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Licod</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Yasca</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td><b>Our Algorithm</b></td><td><b>5</b></td><td><b>0.40</b></td></tr>
+  
+  <tr align = 'center'><td>Political Books</td><td>Newman</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Lovain</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Walktrap</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Licod</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td>Yasca</td><td>5</td><td>0.40</td></tr>
+  <tr align = 'center'><td> </td><td><b>Our Algorithm</b></td><td><b>5</b></td><td><b>0.40</b></td></tr>
+
+</table>
+
 ![alt text](https://github.com/bheemnitd/Community-Detection-based-on-seed-node/blob/master/download%202.png)
