@@ -32,7 +32,7 @@
 ![alt text](https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/Selection_009.jpg) 
 
 
-### Comparision between some popular existed community detection algorithm and our algorithm
+### Comparision between some popular existed community detection algorithm and our algorithm.
 <table>
   <tr align = 'center'><td><h5>Name of Network</h5></td><td><h5>Algorithms</h5></td><td><h5>Communities</h5></td><td><h5>Modularity</h5></td></tr>
   <tr align = 'center'><td>Karate Club</td><td>Newman[1] </td><td>5</td><td>0.40</td></tr>
@@ -58,4 +58,23 @@
 
 </table>
 
-![alt text](https://github.com/bheemnitd/Community-Detection-based-on-seed-node/blob/master/download%202.png)
+### Visual Comparision based on Modularity.
+<img align="right" width="650" height="500" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/download%202.png">
+### Refrences.
+[1] Girvan, M., Newman, M.E.J.: Community structure in social and biological net-
+works. PNAS 99(12), 7821–7826 (2002)
+[2] Zachary, W.W.: An information flow model for conflict and fission in small groups.Journal
+of Anthropological Resea33, 452–473 (1977)
+[3] Lusseau, D., Schneider, K., Boisseau, O.J., Haase, P., Slooten, E., Dawson, S.M.:The
+bottlenose dolphin community of doubtful sound features a large proportion of long-
+lasting associations. Behavioral Ecology and Sociobiology 54, 396–405 (2003)
+[4] Krebs, V.: Political books network, http://www.orgnet.com/
+[5] Blondel, V.D., Guillaume, J.I., Lefebvre, E.: Fast unfolding of communities in large
+networks, pp. 1–12 (2008)
+[6] Pons, P., Latapy, M.: Computing communities in large networks using random
+walks. J. Graph Algorithms Appl. 10(2), 191–218 (2006)
+[7] Kanawati, R.: Licod: Leaders identification for community detection in complex networks.
+In: SocialCom/PASSAT, pp. 577–582 (2011)
+[8] Kanawati, R.: Yasca: A collective intelligence approach for community detection
+in complex networks. CoRR abs/1401.4472 (2014)
+
