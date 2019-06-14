@@ -61,9 +61,9 @@
 ### Visual Comparision based on Modularity.
 <img align="right" width="500" height="500" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/download%202.png"><br><br>
 ### Refrences.<br><br>
-[1] Girvan, M., Newman, M.E.J.: Community structure in social and biological net-
+<li>[1] Girvan, M., Newman, M.E.J.: Community structure in social and biological net-
 works. PNAS 99(12), 7821–7826 (2002)<br><br>
-[2] Zachary, W.W.: An information flow model for conflict and fission in small groups.Journal
+<li>[2] Zachary, W.W.: An information flow model for conflict and fission in small groups.Journal
 of Anthropological Resea33, 452–473 (1977)<br><br>
 [3] Lusseau, D., Schneider, K., Boisseau, O.J., Haase, P., Slooten, E., Dawson, S.M.:The
 bottlenose dolphin community of doubtful sound features a large proportion of long-
