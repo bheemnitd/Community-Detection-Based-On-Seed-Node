@@ -10,9 +10,9 @@
 <table>
 
   <tr align = 'center'><td align = 'left'><h5> Network name</h5></td><td><h5>#node</h5></td><td><h5>#edge</h5></td><td><h5>Refrences</h5></td></tr>
-  <tr align = 'center'><td align = 'left'>Karated Club</td><td>34</td><td>78</td><td>[1]</td></tr>
-  <tr align = 'center'><td align = 'left'>Dolphins Network</td><td>62</td><td>159</td><td>[2]</td></tr>
-  <tr align = 'center'><td align = 'left'>Political Books</td><td>105</td><td>441</td><td><center>[3]</center></td></tr>
+  <tr align = 'center'><td align = 'left'>Karated Club</td><td>34</td><td>78</td><td>[2]</td></tr>
+  <tr align = 'center'><td align = 'left'>Dolphins Network</td><td>62</td><td>159</td><td>[3]</td></tr>
+  <tr align = 'center'><td align = 'left'>Political Books</td><td>105</td><td>441</td><td><center>[4]</center></td></tr>
 
 </table>
 
@@ -59,7 +59,7 @@
 </table>
 
  ### <p align = 'right'> Visual Comparision based on Modularity.</p>
-<img align="right" width="500" height="400" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/download%202.png">
+<img align="right" width="450" height="400" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/download%202.png">
 
 <b>[1]</b> Girvan, M., Newman, M.E.J.: Community structure in social and biological net-
 works. PNAS 99(12), 7821–7826 (2002)<br><br>
