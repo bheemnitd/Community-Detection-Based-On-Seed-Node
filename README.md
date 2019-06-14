@@ -58,9 +58,9 @@
 
 </table>
 
-### Visual Comparision based on Modularity.
+ ### <p align = 'right'> Visual Comparision based on Modularity.</p>
 <img align="right" width="500" height="400" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/download%202.png">
-### Refrences.<br><br>
+
 <b>[1]</b> Girvan, M., Newman, M.E.J.: Community structure in social and biological net-
 works. PNAS 99(12), 7821–7826 (2002)<br><br>
 <b>[2]</b> Zachary, W.W.: An information flow model for conflict and fission in small groups.Journal
