@@ -42,7 +42,7 @@
   <tr align = 'center'><td> </td><td>Yasca[8]            </td><td>2</td><td>0.34</td></tr>
   <tr align = 'center'><td> </td><td><b>Our Algorithm</b></td><td><b>2</b></td><td><b>0.37</b></td></tr>
   
-  <tr align = 'center'><td>Dolphins</td><td>Newman</td> <td>5</td><td>0.51</td></tr>
+  <tr align = 'center'><td>Dolphins Network</td><td>Newman</td> <td>5</td><td>0.51</td></tr>
   <tr align = 'center'><td> </td><td>Lovain</td>        <td>4</td><td>0.52</td></tr>
   <tr align = 'center'><td> </td><td>Walktrap</td>      <td>4</td><td>0.50</td></tr>
   <tr align = 'center'><td> </td><td>Licod</td>         <td>6</td><td>0.42</td></tr>
@@ -60,7 +60,7 @@
 
  ### <p align = 'right'> Visual Comparision based on Modularity.</p>
 <img align="right" width="450" height="400" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/images/download%202.png">
-<b><b>Refrences.</b></b><br>
+<h3> Refrences.<h3><br><br>
 <b>[1]</b> Girvan, M., Newman, M.E.J.: Community structure in social and biological net-
 works. PNAS 99(12), 7821–7826 (2002)<br><br>
 <b>[2]</b> Zachary, W.W.: An information flow model for conflict and fission in small groups.Journal
