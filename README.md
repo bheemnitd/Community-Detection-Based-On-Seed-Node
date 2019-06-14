@@ -1,5 +1,5 @@
 
-<img align="right" width="650" height="500" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/community_detection.jpg">
+<img align="right" width="650" height="500" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/images/community_detection.jpg">
 
 #### Abstract
 <p align = 'justify'>From Earlier days Community detection is one of the most popular topic and is an important structure in social network. Community detection is required to define that who is belong to which community. Further numerous approaches are already proposed for finding community over a social network. In <a href = 'https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/%5BThesis%20PAPER%5D%20A%20new%20Approach%20of%20Community%20Detection%20Based%20on%20seed%20node.pdf'>this</a> paper we will propose a new approach of community detection based on seed centric approach in which we will discuss that how we are finding the seed node. We will also discuss about how seed set is expanding from remaining nodes which do not belongs to any community directly. The basic idea underlying in this approach is to identifying special nodes in the target network, called seed so that we can detect good community. Different algorithms adopt different approaches of seed selection definitions and seed set expansion definitions for communities construction. We will apply our algorithm in three classical data sets and will compare to other algorithms.<p>
@@ -25,11 +25,11 @@
   <tr align = 'center'><td align = 'left'>Political Books</td><td>105</td><td>441</td><td>4</td><td>0.524</td><td>[3]</td></tr>
 </table>  
 
-![alt text](https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/Selection_007.jpg) 
+![alt text](https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/images/Selection_007.jpg) 
 
-![alt text](https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/Selection_008.jpg) 
+![alt text](https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/images/Selection_008.jpg) 
 
-![alt text](https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/Selection_009.jpg) 
+![alt text](https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/images/Selection_009.jpg) 
 
 
 ### Comparision between some popular existed community detection algorithm and our algorithm.
@@ -59,7 +59,7 @@
 </table>
 
  ### <p align = 'right'> Visual Comparision based on Modularity.</p>
-<img align="right" width="450" height="400" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/download%202.png">
+<img align="right" width="450" height="400" src="https://github.com/bheemnitd/Community-Detection-Based-On-Seed-Node/blob/master/images/download%202.png">
 <b><b>Refrences.</b></b><br>
 <b>[1]</b> Girvan, M., Newman, M.E.J.: Community structure in social and biological net-
 works. PNAS 99(12), 7821–7826 (2002)<br><br>
