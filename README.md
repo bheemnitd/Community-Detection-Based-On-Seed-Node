@@ -14,7 +14,7 @@
   <tr align = 'center'><td align = 'left'>Dolphins Network</td><td>62</td><td>159</td><td>[2]</td></tr>
   <tr align = 'center'><td align = 'left'>Political Books</td><td>105</td><td>441</td><td><center>[3]</center></td></tr>
 
-
+</table>
 #### Experimental Results.
 
 <table>
