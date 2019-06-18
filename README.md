@@ -16,6 +16,13 @@
 
 </table>
 
+#### Setup
+important library.
+<li> networkx</li>
+<li> collections</li>
+<li> math</li>
+<li> matplotlib</li>
+  
 #### Experimental Result.
 
 <table>
